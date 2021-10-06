@@ -1,3 +1,4 @@
+# CMake Files
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -9,3 +10,18 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+# Build
+build
+debug
+Build
+Debug
+
+# Python
+clang-venv
+
+# Vscode
+.vscode
+.ccls-cache
+.clang
+.cache
